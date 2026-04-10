@@ -1,0 +1,33 @@
+2. Go to Most Viewed Datasets. How many datasets are listed? 402,377 datasets 
+
+3. Find the Topic Category for Human Health. Review the range of data sources
+available for this topic. Why do you think these were tagged with the Human Health
+category? The datasets were probably tagged Human Health because they all connect to people's health, nutrition, safety, or living conditions.
+
+4. Go to the Food Price Outlook. Review the catalog page for this dataset. How can you
+navigate to additional datasets from the USDA? You can get more USDA datasets by selecting publisher/organization link on the catalog page.
+
+5. Go back to the data.gov home page. This time, click on Datasets by Organization
+
+6. Try searching for your city, county, and state. What organizations are returned? City of New York
+
+7. Search for USDA, and click into the result. Within the USDA datasets, search for food
+composition. Notice that the top three results are all datasets concerning nutrition
+information. Try searching the USDA page for nutrition. How does that affect your
+results? When searching for nutrition instead of food composition it shows data for nutrition assistance. When the search is food composition the data informs you about key foods and food information such as a nutrient database.
+
+a) One of the tricky things about working with data is that sometimes the terminology
+used by a data source is not obvious. You may need to dig around and be creative
+to find what you’re looking for
+
+8. Go back to the results for food composition, and click on FoodData Central. Review
+the catalog page for this data source, then click on the button for Visit Page. Take
+some time to explore the FoodData Central website.
+
+
+a) Try searching for butter, or any of your favorite foods. What kind of results do you
+get? What happens when you click on a result? The results I instantly got was foods and their category. When I click on a result it provides me the nutrition facts of the item I searched for. 
+
+b) Go back to the home page. Find Foundation Foods, and click on Downloads. What
+kind of data can you find on this page? How big are these files? Where can you find
+more information on the data types available? The type of data you can get is Foundation Foods, SR legacy, and FNDDS.  These files range from 29MB to 3.1GB. To find more information on the data types available you would navigate to File Format.
