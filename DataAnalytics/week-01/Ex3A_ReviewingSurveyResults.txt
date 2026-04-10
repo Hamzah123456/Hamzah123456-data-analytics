@@ -1,0 +1,31 @@
+1. What conclusion can you reach about the responses to this question?
+For the first question, I can draw that most students are ready to go when class starts.
+For the second question, I can draw 49% of students have a second monitor and 51% don't.
+For the third question, I can draw 52% of students have external accessories, 40% don't, and 8% have an explanation.
+For the fourth question, I can draw 44% of students take notes on pen and paper, 36% on computer, and 20% have marked other.
+For the fifth question, I can draw students generally need information on how to set themselves up for class and what it would look like.
+
+2. Is the default summary or visualization helpful? How could it be improved? I believe the visualization is helpful because it helps me acquire data faster while still being accurate. One way this could be improved is you merge visualization and default summary together.
+
+3. For questions with an “Other” option, where can you find the actual text of those
+responses? Do you notice anything that might be tricky about analyzing these? You can find the actual text for “Other” responses in the Latest Responses area near the top, or by opening the detailed response view for that question in Microsoft Forms. The tricky part of "Other" answers is that they are all different written responses.
+
+4. For questions calling for a written response, what challenges do you notice about
+finding trends or patterns in the answers provided? The challenge I noticed was trying to generalize the answer by analyzing the responses.
+
+5. Now that you can see the responses, how might you recommend rephrasing this or
+question or the response options in a future survey? I believe making the answer choices more specific so people don't need to use the "Other" as much.
+
+Next respond to the below questions:
+
+6. Is there anything that surprised you about the survey responses? The thing that surprised me was that not all students have external accessories for their computers.
+
+7. Looking at the responses to questions 1 and 5, are there any ideas you might try to
+include in your morning routine, or any questions that you are also curious about? One idea I'd like to implement into my morning routine is 'Making sure my devices are connected and working properly".
+
+8. Pretend you are the instructor. Is there anything you can learn from this survey to help
+in how you approach teaching this class? Knowing my students don't have a second monitor I'll try my best to make the assignments simple so a second monitor isn't needed.
+
+9. Again, pretend you are the instructor. Do you think it was helpful or not helpful to
+make this survey anonymous? Why or why not? (If you can see both pros and cons,
+you may include both.) I believe it was helpful to make this survey anonymous because students would feel more comfortable answering the questions accurately.
