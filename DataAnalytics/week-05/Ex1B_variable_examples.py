@@ -13,3 +13,15 @@ auto_policy_number = 'AP-98765' # assumed string with a prefix, format could dif
 
 my_name = 'Hamzah'
 birth_city_state = 'New York, NY'
+
+# Full list of Python reserved words:
+# False, None, True, and, as, assert, break, class, continue,
+# def, del, elif, else, except, finally, for, from, global,
+# if, import, in, is, lambda, nonlocal, not, or, pass,
+# raise, return, try, while, with, yield
+
+# if - runs a block of code only if a condition is true
+# for - repeats code for each item in a list
+# def - creates a ^^function^^ (a reusable block of code)
+# import - brings in extra tools/^^modules^^ to use in your program
+# return - sends a value back out of a ^^function^^
